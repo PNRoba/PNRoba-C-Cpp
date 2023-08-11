@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1590443136 source:c:\users\paula\desktop\progr\uzd.gg\main.cpp
+	<iostream>
+	"head.h"
+	"head.cpp"
+
+1589998449 c:\users\paula\desktop\progr\uzd.gg\head.h
+
+1590443255 c:\users\paula\desktop\progr\uzd.gg\head.cpp
+	"head.h"
+
+1590445400 source:c:\users\paula\desktop\md\uzdgg_vienvirz\uzd.gg\main.cpp
+	<iostream>
+	"head.h"
+	"head.cpp"
+
+1589998449 c:\users\paula\desktop\md\uzdgg_vienvirz\uzd.gg\head.h
+
+1590445407 c:\users\paula\desktop\md\uzdgg_vienvirz\uzd.gg\head.cpp
+	"head.h"
+
